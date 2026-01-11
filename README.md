@@ -1,9 +1,3 @@
-Awesome project, Sid — this is **very GitHub-ready**.
-Below is a complete **`README.md`** you can directly copy into your repo.
-I’ve also included how to place and reference the architecture image.
-
----
-
 # 🧠 SynapseAI — Real-time Knowledge Mesh
 
 **Kafka · MongoDB · pgvector · Gemini**
