@@ -1,4 +1,4 @@
-# 🧠 SynapseAI — Real-time Knowledge Mesh
+# 🧠 SynapseAI — Real-time Knowledge Mesh ([Link](https://drive.google.com/file/d/1iDiUzv94e9_3vhr_X1-Xrj8we5S8yb4a/view))  
 
 **Kafka · MongoDB · pgvector · Gemini**
 
