@@ -27,11 +27,6 @@ Think of it as:
 ## 🏗️ Architecture
 <img width="1070" height="589" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/ec71cd5e-8956-435f-a9fe-e7052125d1a1" />
 
-
-### High-Level System Design
-
-![SynapseAI Architecture](docs/architecture.png)
-
 **Pipeline overview:**
 
 Secure webhooks & delta sync → Kafka → normalize/enrich → MongoDB truth store → Gemini embeddings → pgvector retrieval → UI + bounded agents with two-tier memory.
