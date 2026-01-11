@@ -2,7 +2,6 @@
 
 **Kafka · MongoDB · pgvector · Gemini**
 
-> **One-liner**
 > A real-time, event-driven knowledge system that ingests Slack, GitHub, and Notion events through a secure webhook gateway, streams them via Kafka, normalizes and enriches them into MongoDB (truth store), generates Gemini embeddings, indexes retrieval in pgvector, and powers a dashboard plus bounded agent workflows with two-tier memory (Digests + Raw Docs).
 
 ---
